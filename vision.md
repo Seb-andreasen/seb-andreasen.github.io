@@ -1,4 +1,4 @@
-## Vision AI - Foundation
+## Computer Vision - Foundation
 
 **Project description:** Counting can be a bit tricky, so I wanted to make something to make it easier.
 
