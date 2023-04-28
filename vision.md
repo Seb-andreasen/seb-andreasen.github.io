@@ -9,7 +9,8 @@ The system is quite elegant. Each frame is treated as a coordinate system, where
 
 ### 2. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video src="/Users/sebastianandreasen/Documents/Portfolio/seb-andreasen.github.io/videos/com_vis.MOV" controls="controls" style="max-width: 730px;">
+</video>
 
 ### 3. Future work
 Essentially this technique can be used for so much more such as controlling machines, computers, unlocking doors, 
