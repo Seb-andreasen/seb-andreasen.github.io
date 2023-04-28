@@ -9,5 +9,7 @@ These are all projects I have made over time. They are not associated with my pr
 ---
 ### [Certifications](/Certifications/certifications)
 ---
-### [Resume](/Resume/CV Sebastian Andreasen.pdf)
+### [Resume](/Resume/CV_Sebastian_Andreasen.pdf)
+---
+### [Contact](/Contact)
 ---

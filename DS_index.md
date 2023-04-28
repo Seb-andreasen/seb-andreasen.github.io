@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### Data Science projects
+## Data Science projects
 Click on the header of each project to learn more
 
 #### [Temperature anomalies](/Projects/climate)
