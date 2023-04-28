@@ -10,10 +10,10 @@ AI tracks the hands and each frame is treated as a coordinate system, where the 
 
 ### 2. What is the output?
 
-Currently the system only counts the number of fingers that are held up.
+Currently the system counts the number of fingers that are held up.
 
 
-<video controls>
+<video controls autoplay style="width:100%;height:auto;">
   <source src="/videos/com_vis.mp4" type="video/mp4">
 </video>
 
