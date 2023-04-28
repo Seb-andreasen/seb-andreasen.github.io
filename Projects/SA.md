@@ -20,7 +20,7 @@ In this case I made the search two-fold by first finding the optimal order to vi
 In less than a minute it was possible to reduce the total distance travelled by 45%.
 <br><br>
 
-<img src="images/map.gif?raw=true"/>
+<img src="/images/map.gif?raw=true"/>
 
 <br><br>
 

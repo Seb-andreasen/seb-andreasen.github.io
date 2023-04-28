@@ -1,20 +1,20 @@
 ## Data Science projects
 Click on the header of each project to learn more
 
-#### [Temperature anomalies](/Projects/climate)
+#### [Temperature anomalies](/climate.md)
 <img src="images/climate_plot.jpg?raw=true"/>
 
 ---
-#### [Computer Vision](/Projects/vision)
+#### [Computer Vision](/vision.md)
 
 <img src="images/fingers.png?raw=true"/>
 
 ---
-[Simulated Annealing](/Projects/SA)
+[Simulated Annealing](/SA.md)
 <img src="images/map.gif?raw=true"/>
 
 ---
-[Wind speeds](/Projects/wind)
+[Wind speeds](/wind.md)
 <img src="images/wind.png?raw=true"/>
 
 

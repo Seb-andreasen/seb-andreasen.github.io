@@ -3,7 +3,7 @@
 Welcome to my portfolio!
 These are all projects I have made over time. They are not associated with my professional work. To learn more about what I have done throughout my career, please have a look at my resume below. 
 
-### [Data Science projects](DS_index.md)
+### [Data Science projects](/Projects/DS_index.md)
 ---
 ### [Product Management](/PM/PM.md)
 ---
@@ -11,4 +11,4 @@ These are all projects I have made over time. They are not associated with my pr
 ---
 ### [Resume](/Resume/CV_Sebastian_Andreasen.pdf)
 ---
-### [Contact](Contact.md)
+### [Contact](/contact/Contact.md)
