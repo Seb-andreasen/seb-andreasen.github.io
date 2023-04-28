@@ -9,7 +9,7 @@
 <img src="images/fingers.png?raw=true"/>
 
 ---
-[Temperature anomalies](/climate)
+[Climate change](/climate)
 <img src="images/climate_plot.png?raw=true"/>
 
 ---

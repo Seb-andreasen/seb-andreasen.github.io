@@ -1,4 +1,4 @@
-## Climate change
+## Temperature anomalies
 
 **Project description:** 
 In my opinion the most impressive thing you can do with data is tell a story without words.
@@ -15,7 +15,7 @@ The data stems from [Met Office Hadley Centre observations datasets](https://www
 The waming stripes shows us the average temperature anomaly pr year. However, I was curious about the distribution pr year, as the distribution usually tells us a lot more than the average. In this case I have plotted the distribution pr year and conducted an ANOVA test. The test concluded that the distributions have changed significantly over time, which is also backed by the visualisation.  
 <br><br>
 
-<img src="images/climate_plot.png?raw=true"/>
+<img src="images/climate_plot.jpg?raw=true"/>
 
 <br><br>
 ### 3. Future work
