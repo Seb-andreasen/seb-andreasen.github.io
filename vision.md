@@ -14,7 +14,7 @@ Currently the system only counts the number of fingers that are held up.
 
 
 <video controls>
-  <source src="/videos/com_vis.mov" type="video/quicktime">
+  <source src="/videos/com_vis.mp4" type="video/mp4">
 </video>
 
 
