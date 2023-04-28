@@ -1,4 +1,4 @@
-## Computer Vision - Foundation
+## Computer Vision
 
 **Project description:** 
 Counting can be a bit tricky, so I wanted to make something to make it easier.
@@ -13,11 +13,11 @@ AI tracks the hands and each frame is treated as a coordinate system, where the 
 Currently the system counts the number of fingers that are held up.
 
 
-<video controls autoplay style="width:100%;height:auto;">
+<video controls autoplay muted style="width:100%;height:auto;">
   <source src="/videos/com_vis.mp4" type="video/mp4">
 </video>
 
 
 ### 3. Future work
-Essentially this technique can be used for so much more such as controlling machines, computers, unlocking doors, 
+Essentially this technique can be used for so much more such as controlling machines, computers, unlocking doors, etc. 
 

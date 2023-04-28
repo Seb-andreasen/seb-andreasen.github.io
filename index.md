@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science projects 
 
-[Project 1 Title](/vision)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Computer Vision](/vision)
+<img src="images/fingers.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
