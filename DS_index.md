@@ -1,20 +1,20 @@
 ## Data Science projects
 Click on the header of each project to learn more
 
-#### [Temperature anomalies](/Projects/climate.md)
+#### [Temperature anomalies](Projects/climate.md)
 <img src="images/climate_plot.jpg?raw=true"/>
 
 ---
-#### [Computer Vision](/Projects/vision.md)
+#### [Computer Vision](Projects/vision.md)
 
 <img src="images/fingers.png?raw=true"/>
 
 ---
-[Simulated Annealing](/Projects/SA.md)
+[Simulated Annealing](Projects/SA.md)
 <img src="images/map.gif?raw=true"/>
 
 ---
-[Wind speeds](/Projects/wind.md)
+[Wind speeds](Projects/wind.md)
 <img src="images/wind.png?raw=true"/>
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> --> 
