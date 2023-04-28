@@ -5,7 +5,7 @@ These are all projects I have made over time. They are not associated with my pr
 
 ### [Data Science projects](DS_index)
 ---
-### [Thoughts on Product Management](/PM/PM)
+### [Product Management](/PM/PM)
 ---
 ### [Certifications](/Certifications/certifications)
 ---
