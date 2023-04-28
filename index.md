@@ -11,5 +11,5 @@ These are all projects I have made over time. They are not associated with my pr
 ---
 ### [Resume](/Resume/CV_Sebastian_Andreasen.pdf)
 ---
-### [Contact](/Contact)
+### [Contact](Contact)
 ---
