@@ -3,7 +3,7 @@
 **Project description:** 
 For the past 10 years or so I have chased wind and waves for kitesurfing and surfing. For some time, I have had this hypothesis that the distribution of wind speed has changed in Denmark. 
 
-<img src="images/kite.png?raw=true"/>
+<img src="/images/kite.png?raw=true"/>
 
 ### 1. Data source
 
@@ -18,7 +18,7 @@ For each day since 2011 I found the average wind speed and compared the distribu
 To visualize this, I have plotted the inverse cumulative probability distribution for each year, which essentially tells us the probability of observing a day with a specific (or higher) mean wind speed, and as it can be seen the distributions are quite similar. 
 <br><br>
 
-<img src="images/wind.png?raw=true"/>
+<img src="/images/wind.png?raw=true"/>
 
 <br><br>
 
