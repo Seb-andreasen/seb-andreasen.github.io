@@ -4,12 +4,13 @@
 
 ### Data Science projects 
 
-[Computer Vision](/vision)
+#### [Computer Vision](/vision)
+
 <img src="images/fingers.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Temperature anomalies](/climate)
+<img src="images/climate_plot.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
