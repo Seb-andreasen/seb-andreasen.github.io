@@ -5,11 +5,10 @@ These are all projects I have made over time. They are not associated with my pr
 
 ### [Data Science projects](DS_index)
 ---
-### [Product Management](/PM/PM)
+### [Product Management](/PM/PM.md)
 ---
-### [Certifications](/Certifications/certifications)
+### [Certifications](/Certifications/certifications.md)
 ---
 ### [Resume](/Resume/CV_Sebastian_Andreasen.pdf)
 ---
-### [Contact](Contact.md)
----
+<!-- ### [Contact](Contact.md) -->
