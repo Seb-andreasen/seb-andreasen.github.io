@@ -1,33 +1,13 @@
 ## Portfolio
 
+Welcome to my portfolio!
+These are all projects I have made over time. They are not associated with my professional work. To learn more about what I have done throughout my career, please have a look at my resume below. 
+
+### [Data Science projects](DS_index)
 ---
-
-### Data Science projects
-Click on the header of each project to learn more
-
-#### [Temperature anomalies](/Projects/climate)
-<img src="images/climate_plot.jpg?raw=true"/>
-
----
-#### [Computer Vision](/Projects/vision)
-
-<img src="images/fingers.png?raw=true"/>
-
----
-[Simulated Annealing](/Projects/SA)
-<img src="images/map.gif?raw=true"/>
-
----
-[Wind speeds](/Projects/wind)
-<img src="images/wind.png?raw=true"/>
-
+### [Thoughts on Product Management](/PM/PM)
 ---
 ### [Certifications](/Certifications/certifications)
 ---
-
-
-
-
+### [Resume](/Resume/CV Sebastian Andreasen.pdf)
 ---
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> --> 
-<!-- Remove above link if you don't want to attibute -->
