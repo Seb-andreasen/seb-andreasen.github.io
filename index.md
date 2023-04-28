@@ -4,13 +4,13 @@
 
 ### Data Science projects 
 
+### [Temperature anomalies](/climate)
+<img src="images/climate_plot.jpg?raw=true"/>
+
+---
 #### [Computer Vision](/vision)
 
 <img src="images/fingers.png?raw=true"/>
-
----
-[Climate change](/climate)
-<img src="images/climate_plot.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
