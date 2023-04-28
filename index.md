@@ -14,6 +14,12 @@ Click on the header of each project to learn more
 <img src="images/fingers.png?raw=true"/>
 
 ---
+[Simulated Annealing](/Projects/SA)
+<img src="images/map.gif?raw=true"/>
+
+---
+
+---
 [Wind speeds](/Projects/wind)
 <img src="images/wind.png?raw=true"/>
 
