@@ -19,6 +19,7 @@ Currently the system counts the number of fingers that are held up.
 
 
 <br><br>
+
 ### 3. Future work
 Essentially this technique can be used for so much more such as controlling machines, computers, unlocking doors, etc. 
 

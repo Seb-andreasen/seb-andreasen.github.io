@@ -18,6 +18,7 @@ The waming stripes shows us the average temperature anomaly pr year. However, I 
 <img src="images/climate_plot.jpg?raw=true"/>
 
 <br><br>
+
 ### 3. Future work
 
 The visualization provides a clear illustration of how temperatures have changed over time, which is cause for concern. Solving the problem of climate change is undeniably challenging, but I remain optimistic that we can find solutions.

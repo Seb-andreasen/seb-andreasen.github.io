@@ -2,19 +2,20 @@
 
 ---
 
-### Data Science projects 
+### Data Science projects
+Click on the header of each project to learn more
 
-### [Temperature anomalies](/climate)
+#### [Temperature anomalies](/Projects/climate)
 <img src="images/climate_plot.jpg?raw=true"/>
 
 ---
-#### [Computer Vision](/vision)
+#### [Computer Vision](/Projects/vision)
 
 <img src="images/fingers.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wind speeds](/Projects/wind)
+<img src="images/wind.png?raw=true"/>
 
 ---
 
