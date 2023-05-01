@@ -1,4 +1,7 @@
 ## Data Science projects
+
+These projects are not associated with my professional work. To learn more about what I have done throughout my career, please have a look at my resume.  
+
 Click on the header of each project to learn more
 
 ### [Graph: Joke recommendations](Projects/Network.md)
