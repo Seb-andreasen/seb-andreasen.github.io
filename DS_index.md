@@ -1,7 +1,7 @@
 ## Data Science projects
 Click on the header of each project to learn more
 
-### [Graph: Network recommendations](Projects/Network.md)
+### [Graph: Joke recommendations](Projects/Network.md)
 <img src="images/network.png?raw=true"/>
 
 ### [Stat: Temperature anomalies](Projects/climate.md)
