@@ -5,7 +5,7 @@ In this project I am building a recommendation engine using graph theory. The hy
 
 ### 1. Data source
 
-The data source stems from [UC Berkeley](https://eigentaste.berkeley.edu/dataset/) and consists of 25.000 people who have each ranked between 36 and 100 jokes on scale from -10 - 10. 
+The data stems from [UC Berkeley](https://eigentaste.berkeley.edu/dataset/) and consists of 100 jokes, where 25.000 people each have ranked between 36 and 100 jokes on scale from -10 - 10. 
 
 The idea is that two people who has rated the same joke with a 9 or higher should be connected. 
 
@@ -31,9 +31,10 @@ I used the louvain algortihm to detect communities within the network and in thi
 
 <img src="/images/network.jpg?raw=true"/>
 
-For each community I found their favorite jokes, i.e.:
+For each community I found their favorite jokes. Here is a subset:
  
-C1: 
+##### Community 1 (C1):
+<br><br>
 A guy goes into confession and says to the priest, "Father, I'm 80 years old, widower, with 11 grandchildren. Last night I met two beautiful flight attendants. They took me home and I made love to both of them. Twice."
 The priest said: "Well, my son, when was the last time you were in confession?"
 
@@ -43,7 +44,8 @@ The priest said: "Well, my son, when was the last time you were in confession?"
 
 "I'm telling everybody."
 
-C2: 
+##### Community 2 (C2):
+<br><br>
 The graduate with a Science degree asks, "Why does it work?"
 
 The graduate with an Engineering degree asks, "How does it work?"
@@ -52,7 +54,8 @@ The graduate with an Accounting degree Asks, "How much will it cost?"
 
 The graduate with a Liberal Arts degree asks, "Do you want fries with that?"
 
-C9:
+##### Community (C9):
+<br><br>
 A man piloting a hot air balloon discovers he has wandered off course and is hopelessly lost. He descends to a lower altitude and locates a man down on the ground. He lowers the balloon further and shouts "Excuse me, can you tell me where I am?"
 The man below says: "Yes, you're in a hot air balloon, about 30 feet above this field."
 
