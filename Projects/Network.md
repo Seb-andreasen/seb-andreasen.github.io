@@ -27,8 +27,6 @@ Each node in the network is a person who has rated one or more jokes with a 9. T
 I used the louvain algortihm to detect communities within the network and in this case I found 9 communities.
 
 
-
-
 <br><br>
 
 <img src="/images/network.jpg?raw=true"/>
