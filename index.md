@@ -1,7 +1,6 @@
 ## Portfolio
 
-Welcome to my portfolio!
-These are all projects I have made over time. They are not associated with my professional work. To learn more about what I have done throughout my career, please have a look at my resume below. 
+Welcome to my portfolio! Have a look around and feel free to ask any questions. 
 
 ### [Data Science projects](/DS_index.md)
 ---
