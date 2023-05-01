@@ -27,14 +27,14 @@ Each node in the network is a person who has rated one or more jokes with a 9. T
 I used the louvain algortihm to detect communities within the network and in this case I found 9 communities.
 
 
-<br><br>
+
 
 <img src="/images/network.jpg?raw=true"/>
 
 For each community I found their favorite jokes. Here is a subset:
  
 ##### Community 1 (C1):
-<br><br>
+
 A guy goes into confession and says to the priest, "Father, I'm 80 years old, widower, with 11 grandchildren. Last night I met two beautiful flight attendants. They took me home and I made love to both of them. Twice."
 The priest said: "Well, my son, when was the last time you were in confession?"
 
@@ -45,7 +45,7 @@ The priest said: "Well, my son, when was the last time you were in confession?"
 "I'm telling everybody."
 
 ##### Community 2 (C2):
-<br><br>
+
 The graduate with a Science degree asks, "Why does it work?"
 
 The graduate with an Engineering degree asks, "How does it work?"
@@ -55,7 +55,7 @@ The graduate with an Accounting degree Asks, "How much will it cost?"
 The graduate with a Liberal Arts degree asks, "Do you want fries with that?"
 
 ##### Community (C9):
-<br><br>
+
 A man piloting a hot air balloon discovers he has wandered off course and is hopelessly lost. He descends to a lower altitude and locates a man down on the ground. He lowers the balloon further and shouts "Excuse me, can you tell me where I am?"
 The man below says: "Yes, you're in a hot air balloon, about 30 feet above this field."
 
