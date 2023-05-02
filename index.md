@@ -10,4 +10,6 @@ Welcome to my portfolio! Have a look around and feel free to ask any questions.
 ---
 ### [Resume](/Resume/CV_Sebastian_Andreasen.pdf)
 ---
+### [Questions](/Questions/questions.md)
+---
 ### [Contact](/contact/Contact.md)
