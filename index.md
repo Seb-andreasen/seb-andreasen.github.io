@@ -6,7 +6,7 @@ Welcome to my portfolio! Have a look around and feel free to ask any questions.
 ---
 ### [Product Management](/PM/PM.md)
 ---
-### [Questions](/Questions/questions.md)
+### [Current Questions on my mind](/Questions/questions.md)
 ---
 ### [Certifications](/Certifications/certifications.md)
 ---
