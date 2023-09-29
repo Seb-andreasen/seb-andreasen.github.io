@@ -10,6 +10,6 @@ Welcome to my portfolio! Have a look around and feel free to ask any questions.
 ---
 ### [Certifications](/Certifications/certifications.md)
 ---
-### [Resume](/Resume/CV_Sebastian_Andreasen.pdf)
+### [Resume](/Resume/Sebastian_Andreasen_Resume.pdf)
 ---
 ### [Contact](/contact/Contact.md)
