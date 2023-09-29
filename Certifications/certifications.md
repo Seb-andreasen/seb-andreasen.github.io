@@ -20,3 +20,14 @@ A Cloud Digital Leader articulates the capabilities of Google Cloud products and
 <img src="GCP.png?raw=true"/>
 
 <br><br>
+
+
+### DBT
+
+DBT fundamentals
+
+<br><br>
+
+<img src="DBT.png?raw=true"/>
+
+<br><br>
