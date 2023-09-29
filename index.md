@@ -1,6 +1,6 @@
 ## Portfolio
 
-Welcome to my portfolio! Have a look around and feel free to ask any questions. 
+Have a look around and feel free to ask questions. I am always happy to chat 
 
 ### [Data Science projects](/DS_index.md)
 ---
